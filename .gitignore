@@ -1,0 +1,6 @@
+# ignore data
+
+./*.hdf5
+./*.ipynb
+__pycache__
+.ipynb_checkpoints
